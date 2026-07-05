@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kashi Yatra | A Sacred Pilgrimage to Varanasi</title>
+    <meta name="description" content="A travel blog and interactive guide detailing a 3-day sacred pilgrimage to Varanasi (Kashi) for Asthi Visarjan and temple darshan.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Navigation Header -->
+    <header class="navbar">
+        <div class="logo">
+            <span class="symbol">🕉️</span> Kashi Yatra
+        </div>
+        <button class="nav-toggle" aria-label="Toggle navigation">
+            <i class="fas fa-bars"></i>
+        </button>
+        <nav class="nav-menu">
+            <a href="#home" class="nav-link active">Home</a>
+            <a href="#itinerary" class="nav-link">Itinerary</a>
+            <a href="#secrets" class="nav-link">Sacred Secrets</a>
+            <a href="#checklist" class="nav-link">Packing Checklist</a>
+            <a href="#tips" class="nav-link">Travel Tips</a>
+        </nav>
+    </header>
+
+    <!-- Hero Banner Section -->
+    <section id="home" class="hero-section">
+        <div class="hero-bg" style="background-image: url('assets/hero_varanasi.png');"></div>
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1 class="hero-title">A Journey of Devotion & Remembrance</h1>
+            <p class="hero-subtitle">Honoring Ancestors & Seeking Blessings in the Eternal City of Kashi</p>
+            <div class="hero-dates">
+                <span><i class="far fa-calendar-alt"></i> July 6 – July 8</span>
+                <span class="divider">|</span>
+                <span><i class="fas fa-map-marker-alt"></i> Varanasi, India</span>
+            </div>
+            <a href="#itinerary" class="btn btn-primary btn-pulse">Explore the Itinerary</a>
+        </div>
+        <div class="wave-shape">
+            <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+                <path d="M0,32L120,42.7C240,53,480,75,720,74.7C960,75,1200,53,1320,42.7L1440,32L1440,120L1320,120C1200,120,960,120,720,120C480,120,240,120,120,120L0,120Z"></path>
+            </svg>
+        </div>
+    </section>
+
+    <!-- Context Introduction Section -->
+    <section class="intro-section container">
+        <div class="intro-card glass-card">
+            <div class="section-header text-center">
+                <span class="tag">The Pilgrimage</span>
+                <h2>In Loving Memory</h2>
+                <div class="underline"></div>
+            </div>
+            <div class="intro-grid">
+                <div class="intro-text">
+                    <p>Varanasi (Kashi) is the city of Lord Shiva, a place of spiritual liberation where the boundary between the material and the divine dissolves. On the 7th of July, we embark on this sacred journey along the banks of the holy Ganges to perform the <strong>Asthi Visarjan</strong> (immersion of ashes) for our beloved Mother, ensuring her soul finds eternal peace and liberation (Moksha).</p>
+                    <p>Along with my elder brother, we travel from Bangalore to Varanasi to perform these solemn rites, while also visiting the legendary temples of Kashi. Following the ancient traditions and wisdom shared by scholars like <strong>Sri Nanduri Srinivas</strong>, this itinerary balances our sacred duties with an immersive temple pilgrimage, uncovering Kashi’s hidden spiritual secrets along the way.</p>
+                </div>
+                <div class="intro-quote">
+                    <blockquote>
+                        <i class="fas fa-quote-left quote-icon"></i>
+                        <span>"Kashi is the light of liberation. Dying here, or immersing the remains of the departed in the Ganges, leads the soul directly to the feet of Lord Shiva."</span>
+                        <cite>— Kashi Khanda, Skanda Purana</cite>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Itinerary Section -->
+    <section id="itinerary" class="itinerary-section container">
+        <div class="section-header text-center">
+            <span class="tag">Planned Route</span>
+            <h2>Interactive Travel Itinerary</h2>
+            <p class="subtitle">Filter by day and click on time slots to reveal detailed logistics, spiritual significance, and routing tips.</p>
+            <div class="underline"></div>
+        </div>
+
+        <!-- Day Filter Tabs -->
+        <div class="tabs-container">
+            <button class="tab-btn active" data-day="all">Show All Days</button>
+            <button class="tab-btn" data-day="day1">Day 1: July 6 (Arrival)</button>
+            <button class="tab-btn" data-day="day2">Day 2: July 7 (Rituals & Temples)</button>
+            <button class="tab-btn" data-day="day3">Day 3: July 8 (Departure)</button>
+        </div>
+
+        <!-- Timeline Container -->
+        <div class="timeline">
+            
+            <!-- Day 1 Slot 1 -->
+            <div class="timeline-item" data-day="day1">
+                <div class="timeline-badge"><i class="fas fa-plane-arrival"></i></div>
+                <div class="timeline-card glass-card clickable">
+                    <div class="card-header">
+                        <span class="time-tag"><i class="far fa-clock"></i> 08:00 PM (July 6)</span>
+                        <h3 class="card-title">Arrival in Varanasi & Hotel Check-in</h3>
+                    </div>
+                    <div class="card-summary">
+                        <p>Arrival at Varanasi Airport and transfer to the hotel to rest before a very early morning start.</p>
+                        <span class="expand-indicator"><i class="fas fa-chevron-down"></i> Read Details</span>
+                    </div>
+                    <div class="card-details">
+                        <hr>
+                        <p><strong>Logistics:</strong> Your flight departs Bangalore at 4:00 PM and arrives in Varanasi (Lal Bahadur Shastri International Airport, Babatpur) at approximately 8:00 PM. The airport is about 24–26 km from the central ghats/temple area. Travel time by pre-booked cab is roughly 1 to 1.5 hours depending on city traffic.</p>
+                        <p><strong>Accommodations:</strong> Check into your hotel. It is highly recommended to stay near Godowlia Crossing or Luxa Road, which allows easy walking/e-rickshaw access to the Ghats and the Kashi Vishwanath temple.</p>
+                        <p><strong>Goal for the night:</strong> Keep dinner light, organize your clothing and documentation for the next morning, and sleep early. Your temple tour starts at 4:00 AM sharp.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Day 2 Slot 1 -->
+            <div class="timeline-item" data-day="day2">
+                <div class="timeline-badge"><i class="fas fa-gopuram"></i></div>
+                <div class="timeline-card glass-card clickable">
+                    <div class="card-header">
+                        <span class="time-tag"><i class="far fa-clock"></i> 04:00 AM – 08:00 AM (July 7)</span>
+                        <h3 class="card-title">Morning Temple Tour: The Sacred Cluster</h3>
+                    </div>
+                    <div class="card-summary">
+                        <p>Early morning darshan of the primary central temples including Kashi Vishwanath, Annapurna, and the hidden Varahi Devi.</p>
+                        <span class="expand-indicator"><i class="fas fa-chevron-down"></i> Read Details</span>
+                    </div>
+                    <div class="card-details">
+                        <hr>
+                        <p>This tight morning block focuses on the temples clustered within the pedestrian-only winding alleys of the old town (Vishwanath Gali):</p>
+                        <ul>
+                            <li><strong>Kashi Vishwanath Temple (04:00 AM - 05:45 AM):</strong> Start here. Early mornings have slightly shorter lines. If possible, book a <em>Sugam Darshan</em> (VIP) ticket online in advance to bypass queues. Pay close attention to the Nandi statue in the outer courtyard facing the Gyanvapi Well, which marks the location of the original Swayambhu Lingam.</li>
+                            <li><strong>Maa Annapurna Temple (05:45 AM - 06:15 AM):</strong> Located adjacent to Vishwanath. Worship the Goddess of sustenance and see the sacred Annapurna Yantra in the side room.</li>
+                            <li><strong>Visalakshi Shakti Peeth & Sakshi Ganapathi (06:15 AM - 06:45 AM):</strong> Visalakshi is one of the 51 Shakti Peethas (pray to the original ancient idol). Follow up with a visit to Sakshi Ganapathi to "register" your pilgrimage.</li>
+                            <li><strong>Ugra Varahi Temple (06:45 AM - 07:30 AM):</strong> This underground temple dedicated to Goddess Varahi is open <strong>only</strong> between 5:30 AM and 7:30 AM. Visiting it during this specific time is a must.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Day 2 Slot 2 -->
+            <div class="timeline-item" data-day="day2">
+                <div class="timeline-badge"><i class="fas fa-burn"></i></div>
+                <div class="timeline-card glass-card clickable highlight-card">
+                    <div class="card-header">
+                        <span class="time-tag"><i class="far fa-clock"></i> 08:00 AM – 12:00 PM (July 7)</span>
+                        <h3 class="card-title">Asthi Visarjan & Sacred Noon Bath</h3>
+                    </div>
+                    <div class="card-summary">
+                        <p>Performing the sacred ash immersion for Mother at Manikarnika Ghat, followed by the highly auspicious midday bath.</p>
+                        <span class="expand-indicator"><i class="fas fa-chevron-down"></i> Read Details</span>
+                    </div>
+                    <div class="card-details">
+                        <hr>
+                        <p>The core spiritual obligation of your journey. Ensure this is completed before 12:00 PM:</p>
+                        <ol>
+                            <li><strong>The Ritual (08:30 AM - 10:15 AM):</strong> Meet your pre-arranged priest (*Panda*) at Manikarnika Ghat. Hire a wooden boat to row to the center of the holy Ganges. Under the priest's direction, perform the Vedic prayers (Sankalpa with your mother's name and Gotra) and gently immerse her ashes (*Asthi*) into the river.</li>
+                            <li><strong>Holy Dip (10:15 AM - 11:00 AM):</strong> Bathe in the Ganges to complete the ritual.</li>
+                            <li><strong>Manikarnika Kund Snanam (11:00 AM - 11:45 AM):</strong> Head to the historic *Chakra Pushkarini Kund* located right beside the cremation ghat. As highlighted by Sri Nanduri Srinivas, performing a bath (*Madhyannika Snanam*) near the **12 Noon** hour is exceptionally auspicious, as Lord Shiva, Goddess Parvati, and all the celestial beings are believed to congregate there at midday.</li>
+                            <li><strong>Completion:</strong> Change into fresh dry clothes and pay your respects/donations to the priest.</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Day 2 Slot 3 -->
+            <div class="timeline-item" data-day="day2">
+                <div class="timeline-badge"><i class="fas fa-utensils"></i></div>
+                <div class="timeline-card glass-card clickable">
+                    <div class="card-header">
+                        <span class="time-tag"><i class="far fa-clock"></i> 12:00 PM – 04:00 PM (July 7)</span>
+                        <h3 class="card-title">Rest, Reflection & Light Lunch</h3>
+                    </div>
+                    <div class="card-summary">
+                        <p>Returning to the hotel to rest, dry off, and have a simple, pure vegetarian Sattvik lunch.</p>
+                        <span class="expand-indicator"><i class="fas fa-chevron-down"></i> Read Details</span>
+                    </div>
+                    <div class="card-details">
+                        <hr>
+                        <p><strong>Sattvik Meal:</strong> After performing ancestral rites, it is custom to eat light, pure vegetarian food (Sattvik - prepared without onion and garlic). Good local options include simple thalis at heritage hotels or local traditional outlets near your lodging.</p>
+                        <p><strong>Rest:</strong> Take a deep rest. Waking up at 3:30 AM, walking the lanes, and undergoing the emotional and physical process of the ash immersion will require recovery time before the evening tour.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Day 2 Slot 4 -->
+            <div class="timeline-item" data-day="day2">
+                <div class="timeline-badge"><i class="fas fa-om"></i></div>
+                <div class="timeline-card glass-card clickable">
+                    <div class="card-header">
+                        <span class="time-tag"><i class="far fa-clock"></i> 04:00 PM – 10:00 PM (July 7)</span>
+                        <h3 class="card-title">Evening Tour: Kaal Bhairav & Ganga Aarti</h3>
+                    </div>
+                    <div class="card-summary">
+                        <p>Seeking permission from the guardian Kaal Bhairav, watching the Ganga Aarti from a boat, and visiting the southern temples.</p>
+                        <span class="expand-indicator"><i class="fas fa-chevron-down"></i> Read Details</span>
+                    </div>
+                    <div class="card-details">
+                        <hr>
+                        <p>This 6-hour block covers temples across different sectors of the city, culminating in the famous Ganga Aarti:</p>
+                        <ul>
+                            <li><strong>Kaal Bhairav Temple (04:15 PM - 05:15 PM):</strong> Visit the Kotwal (guardian priest) of Kashi. It is traditional to visit him to seek permission to be in the city and to tie the black Kashi thread (*Kashi Dhaaga*) on your wrist.</li>
+                            <li><strong>Dashashwamedh Ganga Aarti (05:45 PM - 07:45 PM):</strong> Arrive at the ghat by 5:45 PM. Hire a wooden boat to sit on the water. Watching the synchronized, lamp-lit ritual from the river at sunset (starting around 6:45 PM) is an unforgettable experience.</li>
+                            <li><strong>Sankat Mochan Hanuman Temple (08:30 PM - 09:30 PM):</strong> Located in the southern sector. Founded by Tulsidas, it features high spiritual energy in the evening. Keep all phones and electronic accessories locked in your cab or hotel room.</li>
+                            <li><strong>Durga Temple & Tridev Temple (09:30 PM - 10:00 PM):</strong> Located near Sankat Mochan. The red Durga Kund temple is very historic and looks beautiful under night lighting.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Day 3 Slot 1 -->
+            <div class="timeline-item" data-day="day3">
+                <div class="timeline-badge"><i class="fas fa-sun"></i></div>
+                <div class="timeline-card glass-card clickable">
+                    <div class="card-header">
+                        <span class="time-tag"><i class="far fa-clock"></i> 05:00 AM – 07:30 AM (July 8)</span>
+                        <h3 class="card-title">Morning Serenity: Subah-e-Banaras</h3>
+                    </div>
+                    <div class="card-summary">
+                        <p>Enjoying morning Aarti and music at Assi Ghat, followed by a visit to the peaceful BHU New Vishwanath Temple.</p>
+                        <span class="expand-indicator"><i class="fas fa-chevron-down"></i> Read Details</span>
+                    </div>
+                    <div class="card-details">
+                        <hr>
+                        <p>A tranquil end to your pilgrimage before departure:</p>
+                        <ul>
+                            <li><strong>Subah-e-Banaras at Assi Ghat (05:00 AM - 06:15 AM):</strong> Wake up early to witness the morning Aarti at dawn. Enjoy the soft Sanskrit chanting, a shared public yoga session, and a classical morning raga instrumental performance on the ghat steps.</li>
+                            <li><strong>New Vishwanath Temple (VT) at BHU (06:30 AM - 07:15 AM):</strong> Drive inside the green, quiet Banaras Hindu University campus. This massive marble structure boasts the tallest temple tower in India. It is incredibly clean, quiet, and peaceful in the early morning.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Day 3 Slot 2 -->
+            <div class="timeline-item" data-day="day3">
+                <div class="timeline-badge"><i class="fas fa-plane-departure"></i></div>
+                <div class="timeline-card glass-card clickable">
+                    <div class="card-header">
+                        <span class="time-tag"><i class="far fa-clock"></i> 08:00 AM – 10:00 AM (July 8)</span>
+                        <h3 class="card-title">Checkout & Flight back to Bangalore</h3>
+                    </div>
+                    <div class="card-summary">
+                        <p>Returning to the hotel to pack, check out, and head to the airport for the 10:00 AM flight.</p>
+                        <span class="expand-indicator"><i class="fas fa-chevron-down"></i> Read Details</span>
+                    </div>
+                    <div class="card-details">
+                        <hr>
+                        <p><strong>Timeline:</strong></p>
+                        <ul>
+                            <li><strong>07:30 AM - 08:00 AM:</strong> Return to hotel, pack your bags, checkout, and have a quick breakfast.</li>
+                            <li><strong>08:00 AM - 09:15 AM:</strong> Taxi journey to Lal Bahadur Shastri International Airport (approx 1 hour 15 mins). Ensure you leave by 8:00 AM to arrive in time for airport security.</li>
+                            <li><strong>10:00 AM:</strong> Flight departs back to Bangalore.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Sacred Secrets Section -->
+    <section id="secrets" class="secrets-section container">
+        <div class="section-header text-center">
+            <span class="tag">Spiritual Wisdom</span>
+            <h2>Sri Nanduri Srinivas's Secrets of Kashi</h2>
+            <p class="subtitle">Significant details and lesser-known traditions to enrich your spiritual pilgrimage.</p>
+            <div class="underline"></div>
+        </div>
+
+        <div class="secrets-grid">
+            
+            <!-- Secret 1 -->
+            <div class="secret-card glass-card">
+                <div class="secret-icon"><i class="fas fa-eye-slash"></i></div>
+                <h3>Ugra Varahi underground</h3>
+                <p>Goddess Varahi is Kashi's fierce guardian. Her temple is underground and lacks windows. It is open for only two hours daily (5:30 AM – 7:30 AM). Visiting requires precise timing but grants immense spiritual protection.</p>
+            </div>
+
+            <!-- Secret 2 -->
+            <div class="secret-card glass-card">
+                <div class="secret-icon"><i class="fas fa-tint"></i></div>
+                <h3>Manikarnika Kund Noon Dip</h3>
+                <p>The Chakra Pushkarini Kund predates the Ganges itself, dug by Lord Vishnu. Sri Srinivas emphasizes the *Madhyannika Snanam* (noon bath) here. Lord Shiva and all celestial beings are believed to bathe here at 12:00 PM daily.</p>
+            </div>
+
+            <!-- Secret 3 -->
+            <div class="secret-card glass-card">
+                <div class="secret-icon"><i class="fas fa-bullseye"></i></div>
+                <h3>The Gyanvapi Nandi</h3>
+                <p>Inside the Kashi Vishwanath corridor, locate the massive stone Nandi. Unlike typical temples where Nandi faces the active altar, this Nandi faces the Gyanvapi Well, pointing to where the original Swayambhu Lingam was hidden.</p>
+            </div>
+
+            <!-- Secret 4 -->
+            <div class="secret-card glass-card">
+                <div class="secret-icon"><i class="fas fa-clipboard-check"></i></div>
+                <h3>Sakshi Ganapathi</h3>
+                <p>A small temple en route. Legend states that Lord Ganesha acts as the witness (*Sakshi*) to your pilgrimage. Pilgrims stop here to tell Ganapathi their name and gotra to "register" their visit to Kashi.</p>
+            </div>
+
+            <!-- Secret 5 -->
+            <div class="secret-card glass-card">
+                <div class="secret-icon"><i class="fas fa-shield-halved"></i></div>
+                <h3>Kaal Bhairav Permission</h3>
+                <p>Kaal Bhairav is the Kotwal (police chief) of Kashi. It is traditional to visit him to seek "permission" to enter and safely leave Kashi. A black protective thread (*Kashi Dhaaga*) is tied around your wrist here.</p>
+            </div>
+
+            <!-- Secret 6 -->
+            <div class="secret-card glass-card">
+                <div class="secret-icon"><i class="fas fa-heart"></i></div>
+                <h3>Maa Visalakshi Shakti Peeth</h3>
+                <p>This is one of the 51 Shakti Peethas representing the ears/earrings of Sati. The temple contains two idols of the Goddess: the swayambhu (self-manifested) stone behind, and the worshiped idol in front.</p>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Packing Checklist Section -->
+    <section id="checklist" class="checklist-section container">
+        <div class="checklist-card glass-card">
+            <div class="section-header text-center">
+                <span class="tag">Preparation</span>
+                <h2>Interactive Packing Checklist</h2>
+                <p class="subtitle">Check off items as you pack. Your progress is saved automatically in your browser.</p>
+                <div class="underline"></div>
+            </div>
+
+            <!-- Progress Bar -->
+            <div class="progress-container">
+                <div class="progress-bar-wrapper">
+                    <div id="checklist-progress" class="progress-bar" style="width: 0%;"></div>
+                </div>
+                <div class="progress-text"><span id="checked-count">0</span> of <span id="total-count">0</span> items packed (<span id="progress-percentage">0%</span>)</div>
+            </div>
+
+            <!-- Checklist Grid -->
+            <div class="checklist-grid">
+                
+                <!-- Category 1 -->
+                <div class="checklist-category">
+                    <h3><i class="fas fa-pray"></i> Ritual Essentials</h3>
+                    <ul class="todo-list">
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="ash-urn">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Mother's Ash Urn (Kalash)</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="cotton-bag">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Cotton bag/cover for Urn</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="pooja-list">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Mother's full name, gotra, birth details</span>
+                            </label>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Category 2 -->
+                <div class="checklist-category">
+                    <h3><i class="fas fa-file-invoice"></i> Travel Documents</h3>
+                    <ul class="todo-list">
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="flight-tickets">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Flight tickets (Bangalore ⇄ Varanasi)</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="vip-pass">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Kashi Vishwanath Sugam Darshan tickets</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="id-proof">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Aadhar Card / Gov ID (original + photocopies)</span>
+                            </label>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Category 3 -->
+                <div class="checklist-category">
+                    <h3><i class="fas fa-tshirt"></i> Apparel & Personal</h3>
+                    <ul class="todo-list">
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="traditional-wear">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Traditional attire (Dhoti or Kurta-Pyjama)</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="bath-towels">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Quick-dry towel for Ghat bath</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="plastic-bag">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Waterproof bags for wet clothes</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="easy-shoes">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Slip-on sandals (easy to remove at temples)</span>
+                            </label>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Category 4 -->
+                <div class="checklist-category">
+                    <h3><i class="fas fa-heartbeat"></i> Health & Misc</h3>
+                    <ul class="todo-list">
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="cash">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Cash (small denominations for boats & rickshaws)</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="hand-sanitizer">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Hand sanitizer & wet wipes</span>
+                            </label>
+                        </li>
+                        <li>
+                            <label class="todo-item">
+                                <input type="checkbox" class="todo-checkbox" data-id="power-bank">
+                                <span class="checkmark"></span>
+                                <span class="todo-text">Power bank (for phone battery during long walks)</span>
+                            </label>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+            
+            <div class="text-center mt-3">
+                <button id="reset-checklist" class="btn btn-secondary"><i class="fas fa-undo"></i> Reset Checklist</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Travel Tips Section -->
+    <section id="tips" class="tips-section container">
+        <div class="section-header text-center">
+            <span class="tag">Useful Info</span>
+            <h2>Travel Tips & Local Guides</h2>
+            <div class="underline"></div>
+        </div>
+
+        <div class="tips-grid">
+            
+            <!-- Tip 1 -->
+            <div class="tip-card glass-card">
+                <div class="tip-icon"><i class="fas fa-lock"></i></div>
+                <h4>Temple Mobile Restriction</h4>
+                <p>Phones, cameras, smartwatches, leather belts, and wallets are strictly banned inside Kashi Vishwanath and Sankat Mochan. Leave them in your hotel safe to avoid long deposit locker queues.</p>
+            </div>
+
+            <!-- Tip 2 -->
+            <div class="tip-card glass-card">
+                <div class="tip-icon"><i class="fas fa-motorcycle"></i></div>
+                <h4>Local Commuting</h4>
+                <p>Cars cannot navigate the narrow alleys of Varanasi and are blocked from Godowlia. Rely on <strong>e-rickshaws</strong> for roads, and use hand-rowed or motor <strong>boats</strong> to travel along the ghats.</p>
+            </div>
+
+            <!-- Tip 3 -->
+            <div class="tip-card glass-card">
+                <div class="tip-icon"><i class="fas fa-cookie-bite"></i></div>
+                <h4>Varanasi Street Food</h4>
+                <p>Varanasi is famous for its food. Don't miss <em>Tamatar Chaat</em> at Deena Chat Bhandar, <em>Kachori Sabzi</em> at Kachori Gali in the morning, and the thick, hand-churned saffron <em>Lassi</em> at Blue Lassi.</p>
+            </div>
+
+            <!-- Tip 4 -->
+            <div class="tip-card glass-card">
+                <div class="tip-icon"><i class="fas fa-shield-alt"></i></div>
+                <h4>Dealing with Pandas/Priests</h4>
+                <p>To avoid overcharging or scams, book a priest through your hotel, a relative, or pre-book via registered portals. Settle the *Dakshina* amount clearly before commencing the ritual.</p>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p class="footer-logo">🕉️ Kashi Yatra 2026</p>
+            <p>A sacred travel log and planning portal for family pilgrimage to Varanasi.</p>
+            <p class="copy">&copy; 2026 Vijay Andem & Brother. Made for remembrance and devotion.</p>
+        </div>
+    </footer>
+
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+</html>
