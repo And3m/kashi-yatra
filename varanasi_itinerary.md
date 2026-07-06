@@ -13,7 +13,8 @@ This plan is customized for your journey with Hari Kumar Andem to perform the sa
 | **July 7, 8:00 AM – 12:00 PM** | **Asthi Visarjan & Holy Dip** | Kedar Ghat / Hanuman Ghat (Telugu Hub) & Manikarnika Kund (Midday Bath) |
 | **July 7, 12:00 PM – 4:00 PM** | Rest & Lunch | Relax at hotel, light Sattvik lunch |
 | **July 7, 4:00 PM – 09:30 PM** | **Temple Tour Part 2 (Evening Slot)** | Sankat Mochan, Durga Temple, Ganga Aarti (Dashashwamedh Ghat) |
-| **July 8, 5:00 AM – 7:30 AM** | **Morning Serenity (Final Slot)** | Subah-e-Banaras (Assi Ghat) & BHU New Vishwanath Temple |
+| **July 8, 3:00 AM – 05:00 AM** | **Temple Tour Part 3 (Final Darshan)** | Kashi Vishwanath Sugam Darshan / Mangala Aarti |
+| **July 8, 5:15 AM – 7:30 AM** | **Morning Serenity (Final Slot)** | Subah-e-Banaras (Assi Ghat) & BHU New Vishwanath Temple |
 | **July 8, 8:00 AM** | Departure for Airport | Check out of hotel, cab to airport |
 | **July 8, 10:00 AM** | Flight back | Flight departs for Bangalore |
 
@@ -58,7 +59,7 @@ This block is dedicated entirely to your mother's final rites and the cleansing 
     *   After immersing the ashes, take your holy dip (*Snanam*) in the Ganges at Kedar Ghat, which is safer for family bathing.
 *   **11:00 AM – 11:45 AM: Manikarnika Kund Snanam**
     *   Optional but highly recommended: Head to the historic *Chakra Pushkarini Kund* beside Manikarnika Ghat. Traditional customs emphasize performing a bath or sprinkling water (*Prokshana*) near the **12 Noon** hour, as Lord Shiva, Goddess Parvati, and all the Devas are believed to gather there at midday.
-*   **11:45 AM – 12:00 PM:** Change into dry clothes and pay your respects/dakshina to the priest.
+*   **11:45 AM – 12:00 PM:** Change into dry clothes and pay your respects/donations to the priest.
 
 ---
 
@@ -83,11 +84,15 @@ This slot covers the southern temples of the city, ending with the famous evenin
 
 ---
 
-### Day 3: July 8 (Morning Slot: 5:00 AM – 8:00 AM) — Subah-e-Banaras & Departure
-A gentle, serene conclusion to your pilgrimage.
+### Day 3: July 8 (Morning Slot: 3:00 AM – 8:00 AM) — Final Darshan, Assi Ghat & Departure
+A highly spiritual and active final morning in Varanasi before heading back to Bangalore.
 
-*   **05:00 AM – 06:15 AM: Subah-e-Banaras at Assi Ghat**
-    *   *Experience:* Witness the morning Ganga Aarti at dawn, followed by Vedic chanting, a yoga session, and a brief Hindustani classical music recital on the ghat steps.
+*   **03:00 AM – 05:00 AM: Kashi Vishwanath Sugam Darshan / Mangala Aarti**
+    *   *VIP/Sugam Darshan:* Book a fast-track entry ticket online in advance to beat the massive day queues. The early morning environment is quiet and sacred.
+    *   *Mangala Aarti Option:* Securing Mangala Aarti tickets (3:00 AM – 4:00 AM) allows you to witness the first ritual of the day. *Sparsha Darshan* (touching the Jyotirlinga) is sometimes allowed immediately after the Aarti, depending on the day's temple crowd management rules.
+    *   *Note:* Bhasma Aarti is exclusive to Mahakaleshwar Temple in Ujjain; in Kashi Vishwanath, the early morning ritual is the *Mangala Aarti*.
+*   **05:15 AM – 06:15 AM: Subah-e-Banaras at Assi Ghat**
+    *   *Experience:* Directly travel south to Assi Ghat to witness the morning Ganga Aarti at dawn, followed by Vedic chanting, a yoga session, and a peaceful Hindustani classical music recital on the steps.
 *   **06:15 AM – 07:15 AM: New Vishwanath Temple (VT) at BHU**
     *   Located inside the green, quiet Banaras Hindu University campus. This massive marble structure is spacious, clean, and highly peaceful in the early morning.
 *   **07:15 AM – 08:00 AM:** Return to your hotel, pack your bags, check out, and have breakfast.
