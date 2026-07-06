@@ -8,25 +8,27 @@ This plan is customized for your journey with Hari Kumar Andem to perform the sa
 
 | Date & Time | Activity | Location / Details |
 | :--- | :--- | :--- |
-| **July 6, 8:00 PM** | Arrival in Varanasi | Travel from Lal Bahadur Shastri Airport to your Hotel (approx. 1-1.5 hrs) |
+| **July 6, 3:25 PM – 07:30 PM** | **Flight to Varanasi & Check-in** | Air India Express (BLR 3:25 PM ➔ VNS 5:45 PM), pre-booked cab to hotel |
 | **July 7, 5:00 AM – 08:15 AM** | **Temple Tour Part 1 (Morning Slot)** | Kaal Bhairav (Kotwal Priority), Ugra Varahi, Kashi Vishwanath, Annapurna, Visalakshi, Sakshi Ganapathi |
 | **July 7, 8:00 AM – 12:00 PM** | **Asthi Visarjan & Holy Dip** | Kedar Ghat / Hanuman Ghat (Telugu Hub) & Manikarnika Kund (Midday Bath) |
 | **July 7, 12:00 PM – 4:00 PM** | Rest & Lunch | Relax at hotel, light Sattvik lunch |
 | **July 7, 4:00 PM – 09:30 PM** | **Temple Tour Part 2 (Evening Slot)** | Sankat Mochan, Durga Temple, Ganga Aarti (Dashashwamedh Ghat) |
 | **July 8, 3:00 AM – 05:00 AM** | **Temple Tour Part 3 (Final Darshan)** | Kashi Vishwanath Sugam Darshan / Mangala Aarti |
 | **July 8, 5:15 AM – 7:30 AM** | **Morning Serenity (Final Slot)** | Subah-e-Banaras (Assi Ghat) & BHU New Vishwanath Temple |
-| **July 8, 8:00 AM** | Departure for Airport | Check out of hotel, cab to airport |
-| **July 8, 10:00 AM** | Flight back | Flight departs for Bangalore |
+| **July 8, 08:45 AM – 11:55 AM** | **Checkout & Departure** | Check out of hotel, cab to airport, IndiGo flight (VNS 11:55 AM ➔ BLR) |
 
 ---
 
 ## 📿 Detailed Day-by-Day Itinerary
 
 ### Day 1: July 6 (Arrival & Preparation)
-*   **08:00 PM – 09:30 PM:** Arrive at Varanasi Airport, hire a pre-booked cab (highly recommended over street taxis to avoid delays), and check into your hotel. 
+*   **03:25 PM – 05:45 PM: Flight from Bangalore to Varanasi**
+    *   Your flight (**Air India Express**) departs Bangalore (BLR) at 3:25 PM and lands at Varanasi (VNS - Lal Bahadur Shastri International Airport, Babatpur) at approximately 5:45 PM.
+*   **05:45 PM – 07:30 PM: Transfer to Hotel**
+    *   The airport is about 24–26 km from the central ghats/temple area. Travel time by pre-booked cab is roughly 1.5 hours in evening traffic.
     > [!TIP]
     > **Hotel Location:** Since most key temples and ghats are in the old city, staying near **Godowlia Crossing**, **Dashashwamedh Ghat**, or **Luxa Road** will save you hours of travel time in narrow lanes where vehicles cannot go.
-*   **09:30 PM onwards:** Have a light dinner and sleep early to prepare for the 5:00 AM start.
+*   **07:30 PM onwards:** Check in, have a light dinner, and sleep early to prepare for the 5:00 AM start.
 
 ---
 
@@ -95,9 +97,12 @@ A highly spiritual and active final morning in Varanasi before heading back to B
     *   *Experience:* Directly travel south to Assi Ghat to witness the morning Ganga Aarti at dawn, followed by Vedic chanting, a yoga session, and a peaceful Hindustani classical music recital on the steps.
 *   **06:15 AM – 07:15 AM: New Vishwanath Temple (VT) at BHU**
     *   Located inside the green, quiet Banaras Hindu University campus. This massive marble structure is spacious, clean, and highly peaceful in the early morning.
-*   **07:15 AM – 08:00 AM:** Return to your hotel, pack your bags, check out, and have breakfast.
-*   **08:00 AM – 09:15 AM:** Take a cab from the hotel to Varanasi Airport (Babatpur).
-*   **10:00 AM:** Board your return flight to Bangalore.
+*   **07:15 AM – 08:45 AM: Pack & Checkout**
+    *   Return to the hotel, pack your bags, check out, and have a relaxed breakfast.
+*   **08:45 AM – 10:15 AM: Travel to Airport**
+    *   Take a cab from the hotel to Varanasi Airport (Babatpur) (approx. 24–26 km / 1.5 hours travel time).
+*   **11:55 AM: Flight back to Bangalore**
+    *   Your flight (**IndiGo**) departs Varanasi at 11:55 AM, returning to Bangalore.
 
 ---
 
